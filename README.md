@@ -4,7 +4,7 @@ An implementation of a doubly linked list for integers. A total of 13 functions 
 
 
 
-The command line UI 
+The Command Line UI 
 ---
 ![Capture](https://github.com/user-attachments/assets/e9d2fb7b-7d00-493a-92af-96756e29cdd8)
 
@@ -12,11 +12,11 @@ The command line UI
 FUNCTIONS
 ---
 
---**verifyList** - helper function to validate if there has been created a linked list before performing operations on the said list
+- **verifyList** - helper function to validate if there has been created a linked list before performing operations on the said list
 
---**validate_input** - helper function to validate the user's input (i.e. if he has inputted an integer for operations)
+- **validate_input** - helper function to validate the user's input (i.e. if he has inputted an integer for operations)
 
---**create_list** - creates a doubly linked list and initializes it from 0 to the desired number
+- **create_list** - creates a doubly linked list and initializes it from 0 to the desired number
 
 --**find_length** - finds the length of the list and outputs it
 
