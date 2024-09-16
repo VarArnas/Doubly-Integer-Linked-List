@@ -5,7 +5,7 @@ An implementation of a doubly linked list for integers. A total of 13 functions 
 
 
 The Command Line UI 
----
+<hr style="border: 3px solid #000;">
 ![Capture](https://github.com/user-attachments/assets/e9d2fb7b-7d00-493a-92af-96756e29cdd8)
 
 
