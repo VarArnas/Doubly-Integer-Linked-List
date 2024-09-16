@@ -1,6 +1,8 @@
 # Doubly-Integer-Linked-List
 
+<div style="text-align: justify;">
 An implementation of a doubly linked list for integers. A total of 13 functions which the user can choose to invoke on their linked list for removing, inserting, and others are displayed when the program starts. There also is an option to save and load a linked list from files (such as data.txt and output.txt). A makefile to run the code easily across different IDEs and command line arguments are used to give names of the files for saving and loading the linked list.
+</div>
 
 <br>
 
