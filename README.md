@@ -9,6 +9,7 @@ The Command Line UI
 ![Capture](https://github.com/user-attachments/assets/e9d2fb7b-7d00-493a-92af-96756e29cdd8)
 
 <br>
+
 FUNCTIONS
 ---
 
@@ -47,6 +48,7 @@ FUNCTIONS
 - **clear_screen** - helper function to clear the CLI of the user each time after a new operation is executed (works cross-platform)
 
 <br>
+
 HOW TO RUN
 ---
 
