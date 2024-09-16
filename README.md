@@ -9,6 +9,7 @@ The UI with running the 1st function of creating a doubly linked list:
 
 
 FUNCTIONS:
+---
 
 --verifyList - helper function to validate if there has been created a linked list before performing operations on the said list
 
