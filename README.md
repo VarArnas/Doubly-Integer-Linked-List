@@ -4,7 +4,7 @@ An implementation of a doubly linked list for integers. A total of 13 functions 
 
 
 
-The UI 
+The command line UI 
 ---
 ![Capture](https://github.com/user-attachments/assets/e9d2fb7b-7d00-493a-92af-96756e29cdd8)
 
@@ -51,5 +51,5 @@ HOW TO RUN
 ---
 
 * Navigate through your terminal to the project's folder.
-* Run command "make"
-* Run command "main.exe data.txt output.txt"
+* Run command `make`
+* Run command `main.exe data.txt output.txt`
