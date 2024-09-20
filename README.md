@@ -13,10 +13,6 @@ The Command Line UI
 FUNCTIONS
 ---
 
-- **verifyList** - helper function to validate if there has been created a linked list before performing operations on the said list.
-
-- **validate_input** - helper function to validate the user's input (i.e. if he has inputted an integer for operations).
-
 - **create_list** - creates a doubly linked list and initializes it from 0 to the desired number.
 
 - **find_length** - finds the length of the list and outputs it.
@@ -42,10 +38,6 @@ FUNCTIONS
 - **save_to_file** - saves the created linked list during runtime into output.txt file.
 
 - **UI** - displays all of the operations the user can invoke and invokes them.
-
-- **validate_command_line** - validates the command line arguments.
-
-- **clear_screen** - helper function to clear the CLI of the user each time after a new operation is executed (works cross-platform).
 
 <br>
 
